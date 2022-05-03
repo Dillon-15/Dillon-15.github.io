@@ -1,0 +1,21 @@
+$mar-0: 10px;
+$mar-20: 20px;
+
+body{
+    background-color: lightgrey;
+}
+
+.odd, .even{
+    background-color: grey;
+    margin: $mar-20 auto $mar-20 auto;
+    max-width: none;
+    width: 98%;
+    color: whitesmoke;
+}
+.even{
+    background-color: darkgrey;
+}
+
+.top{
+    margin-top: 70px;
+}
