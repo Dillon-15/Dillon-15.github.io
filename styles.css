@@ -17,4 +17,31 @@ body {
 .top {
   margin-top: 70px;
 }
+
+hr {
+  opacity: 0%;
+}
+
+h3 {
+  margin: 1em 0 1em 0;
+}
+
+.img-custom {
+  width: 100%;
+  height: auto;
+}
+
+.custom-link {
+  font-size: 19px;
+  color: black;
+}
+
+.custom-link:hover {
+  color: #727272;
+}
+
+.custom-dec {
+  font-weight: bold;
+  font-size: 20px;
+}
 /*# sourceMappingURL=styles.css.map */
