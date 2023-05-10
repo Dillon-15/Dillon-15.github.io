@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.bg-nav-custom{
+    background-image: url(background.jpg);
+}
+body{
+    background-image: url(backgroundimage.webp);
+}
+.custom-link{
+    color: black;
+    font-size: 15px;
+}
+p{
+    font-size: 18px;
+}
+img{
+    border-radius: 7px;
+}
+
+.song{
+    border: lightgray 2px solid;
+    padding:5px;
+}
+.description{
+    border: grey 2px solid;
+    padding:5px;
+}
